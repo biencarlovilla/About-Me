@@ -27,3 +27,6 @@ I copied a starting template of HTML so that I can reference codes from Bootstra
   </body>
 </html>
 ```
+
+## Title Tag
+I updated the title tag to and named it About Me
