@@ -33,4 +33,12 @@ I updated the title tag and named it About Me
 
 ## Navbar
 I added a navbar and customized the contents
+
 ![NavBar](images/NavBar.png)
+
+## Container
+I added a container and also added an about me content
+* I made sure that the rows are correctly assigned 
+* I also created a css file to adjust the margin of the container
+
+![AboutMe](images/aboutme.png)
