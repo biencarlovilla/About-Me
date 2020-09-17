@@ -42,3 +42,8 @@ I added a container and also added an about me content
 * I also created a css file to adjust the margin of the container
 
 ![AboutMe](images/aboutme.png)
+
+## Linked HREF
+I linked the portfolio.html and contacts.html file to my index.html that made me go to different pages the webpage
+
+![href](images/href.png)
