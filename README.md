@@ -47,3 +47,9 @@ I added a container and also added an about me content
 I linked the portfolio.html and contacts.html file to my index.html that made me go to different pages the webpage
 
 ![href](images/href.png)
+
+## Portfolio.html
+I added content to portfolio.html file 
+* I added the default photos
+* I fixed the positioning of the contents
+
