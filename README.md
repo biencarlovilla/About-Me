@@ -65,3 +65,10 @@ I added media elements when the screen minimizes to 992 , 768 and 400
 * I fixed the alignment and positioning of the default images in the portfolio.html file as the page minimizes
 * I adjusted the box sizes in contact.html file as the page minimizes
 
+## Built With
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Bootstrap](https://getbootstrap.com/docs/4.5/components/alerts/)
+
+## Deployed Link
+* [About-Me](https://biencarlovilla.github.io/About-Me/index.html)
