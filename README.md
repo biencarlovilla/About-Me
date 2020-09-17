@@ -59,3 +59,9 @@ I added content to contacts.html file
 * I fixed the alignment and positioning of each froms
 * I also added a submit buttom
 
+## Media Element
+I added media elements when the screen minimizes to 992 , 768 and 400
+* I managed to adjust the text wrap around the image in the index.html file as the page minimizes
+* I fixed the alignment and positioning of the default images in the portfolio.html file as the page minimizes
+* I adjusted the box sizes in contact.html file as the page minimizes
+
