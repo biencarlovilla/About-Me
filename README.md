@@ -53,3 +53,9 @@ I added content to portfolio.html file
 * I added the default photos
 * I fixed the positioning of the contents
 
+## Contacts.html
+I added content to contacts.html file
+* I added a form tag
+* I fixed the alignment and positioning of each froms
+* I also added a submit buttom
+
