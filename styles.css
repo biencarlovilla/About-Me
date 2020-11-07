@@ -457,6 +457,10 @@ opacity: 0;
 #about {
 	padding: 100px 0 50px 0;
 }
+
+#hello {
+    font-size: 50px;
+}
 /* Portfolio Section
 ********************************************************************* */
 #portfolio {
@@ -601,7 +605,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 	color: black;
 }
 .block {
-	width: 70px;
+	width: 250px;
 	height: 2px;
 	background: black; /* Old browsers */
 	background: -moz-linear-gradient(-45deg, black 0%, #5fc3e4 100%);
